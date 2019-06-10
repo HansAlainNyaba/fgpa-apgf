@@ -195,4 +195,4 @@ Un groupe de visibilité est un groupe d'entrées et/ou d'autres groupes de visi
 
 > **Lien vers la page du projet**
 
-<a href="https://fgpv-vpgf.github.io/fgpv-vpgf/v2.3.0-semi-weekly01/tutorial-legend.html" target="_blank">Pour de plus amples information...</a> (anglais seulement).
+<a href="https://fgpv-vpgf.github.io/fgpv-vpgf/v2.5.0-semi-weekly01/tutorial-legend.html" target="_blank">Pour de plus amples information...</a> (anglais seulement).

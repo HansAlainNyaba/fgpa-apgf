@@ -195,4 +195,4 @@ A visibility set is a group of entries and/or entry groups that are mutually exc
 
 > **Link to project's page**
 
-<a href="https://fgpv-vpgf.github.io/fgpv-vpgf/v2.3.0-semi-weekly01/tutorial-legend.html" target="_blank">For more information...</a>
+<a href="https://fgpv-vpgf.github.io/fgpv-vpgf/v2.5.0-semi-weekly01/tutorial-legend.html" target="_blank">For more information...</a>
