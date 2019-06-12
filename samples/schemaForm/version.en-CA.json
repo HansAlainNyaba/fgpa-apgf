@@ -8,6 +8,7 @@
             "title": "Version",
             "type": "string",
             "enum": [
+                "2.3.0",
                 "2.5.0",
                 "3.0.0"
             ],
