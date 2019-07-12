@@ -59,7 +59,6 @@
             "enum": [
               "NTS",
               "FSA",
-              "SCALE",
               "LAT/LNG"
             ]
           },
